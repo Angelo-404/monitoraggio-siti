@@ -1,0 +1,6 @@
+# One site per line: address | text that must be on the page (empty = only check that it answers).
+# A site is "down" if it does not answer 200 or the text is missing, after three tries.
+https://siti-e-gestionale.angelogpt.workers.dev/ | Angelo Di Maso
+https://demo-impresa-edile.pages.dev/ | Costruiamo
+https://demo-impresa-edile.pages.dev/vetrina | Impresa Edile
+https://gc-demo.angelogpt.workers.dev/demo |
